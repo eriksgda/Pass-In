@@ -11,7 +11,7 @@ Este projeto serve como uma interface projetada para simular o gerenciamento de 
 
 ## Foto de exemplo
 
-<img src="./src/assets/readme-photo.png"/>
+<img src="./../src/assets/readme-photo.png"/>
 
 ## Tecnologias Usadas e Dependências
 
