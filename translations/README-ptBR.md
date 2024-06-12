@@ -34,7 +34,7 @@ Este projeto serve como uma interface projetada para simular o gerenciamento de 
 
 ## Como Usar
 
-[Click Here](https://eriksgda.github.io/Pass-In/) to go to the website and see the project.
+[Clique Aqui](https://eriksgda.github.io/Pass-In/) para ir para o website e ver o projeto.
 
 ## Licença
 
