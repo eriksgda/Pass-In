@@ -38,4 +38,4 @@ Este projeto serve como uma interface projetada para simular o gerenciamento de 
 
 ## Licença
 
-Esse projeto está sob a licença [MIT](./LICENSE).
+Esse projeto está sob a licença [MIT](./../LICENSE).
